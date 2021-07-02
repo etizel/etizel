@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**etizel/etizel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+       🌎 Olá, meu nome é Francisco Etizel. Sou Desenvolvedor de Front-End e entendo um pouco de Designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       🖥️ HTML, CSS, JavaScript, Git & Styled Components.
+
+       🚀 VSCode, Figma, Trello, GitHub.
+
+
+       👨🏻‍💻  Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+       
+       
+       
+       ![ Alt text](https://i0.wp.com/pa1.narvii.com/6778/f3db540f28054e23bf6530ff10db3eb915132e90_hq.gif)
+
+
