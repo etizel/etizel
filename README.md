@@ -31,5 +31,5 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etizel&layout=compact)](https://github.com/etizel/github-readme-stats)
+
 
