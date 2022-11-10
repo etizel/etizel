@@ -1,4 +1,4 @@
-### Olá, eu sou Francisco Etizel 🏍️
+### Olá, eu sou Francisco Etizel.
 
 ### Links para contato:
 
