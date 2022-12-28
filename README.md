@@ -1,6 +1,6 @@
 ### Olá, eu sou Francisco Etizel.
 
-### Links para contato:
+### Links para contato :
 
 
 
@@ -15,7 +15,7 @@
 
 ![Etizel GitHub stats](https://github-readme-stats.vercel.app/api?username=etizel&show_icons=true&theme=radical)
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas :
 
 
 <div> </br>
