@@ -1,4 +1,7 @@
-### Olá, eu sou Francisco Etizel.
+### Francisco Etizel
+Desenvolvedor Front-end e UI Design.
+
+Sou um desenvolvedor Front-end e UI Design apaixonado por criar experiências incríveis para usuários na web. Com anos de experiência em projetos de todos os tamanhos, estou sempre buscando novos desafios e oportunidades para aprender.
 
 ### Links para contato :
 
