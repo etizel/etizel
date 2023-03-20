@@ -16,6 +16,7 @@ Web developer passionate about delivering exceptional user experiences, seeking 
 
 
 
+
 ![Etizel GitHub stats](https://github-readme-stats.vercel.app/api?username=etizel&show_icons=true&theme=radical)
 
 ### technologies used:
