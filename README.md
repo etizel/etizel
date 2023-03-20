@@ -3,7 +3,7 @@ Front-end Developer and UI Designer.
 
 I love creating great web experiences that impress users. With vast experience in projects of all sizes, I am always seeking new challenges and learning opportunities
 
-### contact link :
+### contact link:
 
 
 
