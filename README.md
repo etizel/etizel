@@ -3,7 +3,7 @@ Front-end Developer and UI Designer.
 
 Web developer passionate about delivering exceptional user experiences, seeking new challenges, and staying up-to-date with the latest technologies to create cutting-edge solutions.
 
-### contact link: 
+### contact link : 
 
 
 
@@ -19,7 +19,7 @@ Web developer passionate about delivering exceptional user experiences, seeking 
 
 ![Etizel GitHub stats](https://github-readme-stats.vercel.app/api?username=etizel&show_icons=true&theme=radical)
 
-### technologies used:
+### technologies used :
 
 <div> </br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
