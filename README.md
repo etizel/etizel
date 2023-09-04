@@ -1,6 +1,6 @@
 ### Francisco Etizel.
 
-Front-end Developer and UI Designer .
+Full Stack Developer.
 
 Web developer passionate about delivering exceptional user experiences, seeking new challenges, and staying up-to-date with the latest technologies to create cutting-edge solutions.
 
