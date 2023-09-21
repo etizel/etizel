@@ -4,7 +4,7 @@ Full Stack Developer.
 
 Web developer passionate about delivering exceptional user experiences, seeking new challenges, and staying up-to-date with the latest technologies to create cutting-edge solutions.
 
-### contact link:
+### contact link :
 
 [![Blog](https://img.shields.io/badge/website-d8b5e9?style=for-the-badge&logo=About.me&logoColor=white)](https://etizel.github.io/3tizel/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-etizel-a94056191/)
